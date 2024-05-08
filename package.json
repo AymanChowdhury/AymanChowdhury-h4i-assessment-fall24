@@ -2,7 +2,7 @@
   "name": "assessment",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://sahilg24.github.io/SahilGaba-h4i-assessment-spring24",
+  "homepage": "https://github.com/AymanChowdhury/AymanChowdhury-h4i-assessment-fall24",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
